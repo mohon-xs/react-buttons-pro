@@ -9,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "np": "^7.5.0"
-  }
+    "np": "^7.5.0",
+    "up": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohon-xs/react-buttons-pro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mohon-xs/react-buttons-pro/issues"
+  },
+  "homepage": "https://github.com/mohon-xs/react-buttons-pro#readme"
 }
